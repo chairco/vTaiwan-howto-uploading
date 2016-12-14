@@ -4,7 +4,7 @@ vTaiwan 上稿系統教學
 
 
 ### 軟體需求
-1. node 6.9.0
+1. node.js (6.9.0)
 2. yarn
 
 
