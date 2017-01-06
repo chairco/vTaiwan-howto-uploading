@@ -166,6 +166,8 @@ command:
 3. `babel-node script/update-proposal-slides.js`
 
 
+## build 靜態網頁
 
-
+```
+```
 
