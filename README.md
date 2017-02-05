@@ -168,6 +168,14 @@ command:
 
 ## build 靜態網頁
 
+建立靜態網頁，注意如果是已經編譯過的頁面可以在 /script/build.sh 底下新增下面程式碼在進行編譯，這樣瀏覽器才會讀到新的頁面。
 ```
+babel-node script/gen-static.js /social-enterprise/ 
+```
+
+指令兩個 1. 是用來建立頁面並且循環的去抓取與 discourse 連結的討論區內容。指令 2. 是用來本機測試，不要忘記先 `yarn run start` 先啟動 node 後端，static 是用來確認上道 gh-page 後網頁內容正確。
+```
+yarn build
+yarn static
 ```
 
