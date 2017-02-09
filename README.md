@@ -15,7 +15,7 @@ vTaiwan 上稿系統教學
 在 github 上建立一個 repo 專案，並可將其建置成 gitbook 並依據法案名稱為網址路徑上傳 gitbook 內容到 g0v.io。
 
 2. Talk vTaiwan
-討論區，根據法案建立相對討論區。(目前尚未自動化)
+討論區，根據法案建立相對討論區。自動化工具 [vtdiscourse](https://github.com/chairco/vtdiscourse)
 
 3. vTaiwan
 法案網站。將前導簡報引入網站 react.vtaiwan 的 master
