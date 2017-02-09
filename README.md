@@ -27,9 +27,11 @@ vTaiwan 上稿系統教學
 建立 MD File，資料夾會有 package.json、SUMMARY.md、GLOSSARY.md、LICENSE.md
 
 
-### 手動上稿至 talk.vTaiwan 與建立討論內容
-因為目前無法自動上傳內容到 talk.vTaiwan 所以需要手動在網站建立相對應的討論區。
+~### 手動上稿至 talk.vTaiwan 與建立討論內容~
+~因為目前無法自動上傳內容到 talk.vTaiwan 所以需要手動在網站建立相對應的討論區。~
+### 自動上稿至 talk.vTaiwan 與建立討論內容
 
+撰寫一個自動化工具 [vtdiscourse](https://github.com/chairco/vtdiscourse) 只要下載套件設定 github 上法案 xxxx-gitbook 就可以自動上稿 
 
 ### 將簡報導入 react.vtaiwan 
 
