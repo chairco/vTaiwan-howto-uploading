@@ -1,7 +1,7 @@
 # vTaiwan-howto-uploading
 vTaiwan 上稿系統教學
-如何上稿流程：[教學影音](https://www.youtube.com/playlist?list=PLbf_J5xlMK0GlSQURSj0b_NsozBZsh-Tn)
-
+* 如何上稿流程：[教學影音](https://www.youtube.com/playlist?list=PLbf_J5xlMK0GlSQURSj0b_NsozBZsh-Tn)
+* 文檔: [Read Docs](http://vtaiwan-howto-uploading.readthedocs.io/en/latest/)
 
 ### 軟體需求
 1. node.js (6.9.0)
